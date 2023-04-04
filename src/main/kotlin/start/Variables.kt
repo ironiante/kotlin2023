@@ -7,7 +7,7 @@ fun main(){
      * val es una constante
      * var es una variable
      */
-// variables numericas
+// variables numerica
 // int --> -2,147 a 2,147
     val age:Int = 30
 // long --> -9,223 a 9,223
